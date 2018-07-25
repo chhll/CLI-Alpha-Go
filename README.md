@@ -1,2 +1,2 @@
-# CLI-Go
-Command Line Interface Go Game
+# CLI Alpha Go
+Command Line Interface Alpha Go Game.
